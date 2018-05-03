@@ -1,0 +1,23 @@
+{
+  "name": "jq-ajax",
+  "version": "1.0.1",
+  "description": "An AJAX library abstracted from jQuery without other modules",
+  "main": "jquery-3.3.1.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skycloud1030/jq-ajax.git"
+  },
+  "keywords": [
+    "jquery",
+    "ajax"
+  ],
+  "author": "CT Hung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skycloud1030/jq-ajax/issues"
+  },
+  "homepage": "https://github.com/skycloud1030/jq-ajax#readme"
+}
