@@ -1,6 +1,6 @@
 {
   "name": "jq-ajax",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An AJAX library abstracted from jQuery without other modules",
   "main": "jquery-3.3.1.min.js",
   "scripts": {
